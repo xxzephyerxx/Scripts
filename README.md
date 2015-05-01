@@ -1,3 +1,1 @@
-# Scripts
-Batch and Bash Scripts
-My scripts
+Scripts can be Used for personal use
